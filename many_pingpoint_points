@@ -1,0 +1,13 @@
+#!/bin/bash
+
+./main.py &
+./main.py &
+./main.py & 
+./main.py &
+./main.py &
+./main.py &
+./main.py &
+./main.py & 
+./main.py &
+./main.py &
+
